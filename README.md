@@ -241,9 +241,19 @@ The project successfully demonstrates:
 
 # Author
 
-Mariam Reda Bartella  
-Business Information Systems Student  
-Machine Learning & Data Science Enthusiast
+## Ram Hany Awad
 
-LinkedIn: Add your LinkedIn here  
-GitHub: Add your GitHub here
+AI Engineer & Machine Learning Developer with a background in Mechatronics Engineering and AI systems development. Experienced in building end-to-end AI solutions including Machine Learning pipelines, RAG systems, NLP applications, and Computer Vision models using Python, TensorFlow, PyTorch, and Scikit-Learn.
+
+- GitHub: :(https://github.com/ramhany-coder)
+- LinkedIn: :www.linkedin.com/in/ram-hany-96a34b35a
+
+---
+
+## Project Partner
+
+### :Youssef Rady
+
+AI & Machine Learning enthusiast and project collaborator contributing to the development and evaluation of the customer churn prediction pipeline.
+
+- LinkedIn: :https://www.linkedin.com/in/youssef-ahmed-rady?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
